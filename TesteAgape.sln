@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAgape", "TesteAgape\TesteAgape.csproj", "{95E4EDC0-473E-4175-98D9-E0204709D12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAgape.Data", "TesteAgape.Data\TesteAgape.Data.csproj", "{AF5B2457-20D6-49AE-A779-A06A644BC491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAgape.Aplicacao", "TesteAgape.Aplicacao\TesteAgape.Aplicacao.csproj", "{97D18D5E-D2A0-49AD-9F57-12CB0CA27AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E4EDC0-473E-4175-98D9-E0204709D12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E4EDC0-473E-4175-98D9-E0204709D12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E4EDC0-473E-4175-98D9-E0204709D12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E4EDC0-473E-4175-98D9-E0204709D12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5B2457-20D6-49AE-A779-A06A644BC491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5B2457-20D6-49AE-A779-A06A644BC491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5B2457-20D6-49AE-A779-A06A644BC491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5B2457-20D6-49AE-A779-A06A644BC491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D18D5E-D2A0-49AD-9F57-12CB0CA27AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D18D5E-D2A0-49AD-9F57-12CB0CA27AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D18D5E-D2A0-49AD-9F57-12CB0CA27AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D18D5E-D2A0-49AD-9F57-12CB0CA27AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
